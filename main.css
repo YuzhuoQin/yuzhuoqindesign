@@ -1,0 +1,65 @@
+  
+header{
+    margin: 50px 0 0 200px;
+    color: black;
+    
+}
+header div{
+    margin:0;  
+}
+    
+nav ul{
+    margin: 0;
+    display: inline;
+}
+nav ul li{
+    font-size: 18px;
+    display: inline-block;
+    list-style-type: none;
+    padding: 5px 15px;
+    
+}
+
+nav{
+    font-size: 20px;
+    text-align: right;
+    margin: 0 300px 100px 0;
+}
+
+.logo{
+    font-family:Helvetica;
+    width: 300px;
+    height: 80px;
+    line-height: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.big-logo{
+    margin: 25px;
+    font-size: 30px;
+    letter-spacing: 1px;
+    display: inline;
+}
+.small-logo{
+    font-size: 15px;
+    letter-spacing: 3px;
+    display: inline;
+}
+
+.content{
+    margin: auto;
+}
+
+
+body{
+    background: white;
+    font-family: Helvetica;
+}
+a{
+    text-decoration: none;
+    color: rgb(105, 105, 105);
+}
+
