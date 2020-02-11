@@ -1,6 +1,6 @@
   
 header{
-    margin: 50px 0 0 200px;
+    margin: 50px 0 0 220px;
     color: black;
     
 }
@@ -23,7 +23,7 @@ nav ul li{
 nav{
     font-size: 20px;
     text-align: right;
-    margin: 0 300px 100px 0;
+    margin: 0 250px 100px 0;
 }
 
 .logo{
@@ -58,8 +58,15 @@ body{
     background: white;
     font-family: Helvetica;
 }
-a{
+nav ul li a{
     text-decoration: none;
     color: rgb(105, 105, 105);
 }
 
+footer table a {
+    color: tomato;
+}
+
+.foot{
+    margin: 50px auto;
+}

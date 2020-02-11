@@ -1,16 +1,14 @@
-.prosthetic{
-    background-color: thistle;
-    font-family:Helvetica;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-
-}
 .image{
     text-align: center;
 }
 .Turboheading{
     font-size: 20px;
+}
+.Turboheading{
+    padding: 8px;
+    letter-spacing: 5px;
+}
+.Turboheadingsmall{
+    padding: 8px;
+    letter-spacing: 1px;
 }
