@@ -40,3 +40,21 @@ p{
     background-color: teal;
 
 }
+#container{
+    margin: auto;
+    width: 1000px;
+    height: 500px;
+}
+#photo{
+    float: left; 
+    width:40%;
+}
+#text{
+    line-height: 30px;
+    text-align: justify;
+    float: right;
+    width: 50%;
+}
+div span{
+    font-size: 46px;
+}
