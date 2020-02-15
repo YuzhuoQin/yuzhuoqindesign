@@ -40,6 +40,28 @@ p{
     background-color: teal;
 
 }
+.cv{
+    border: 1px solid;
+    border-color: teal;
+    display: block;
+    font: bold 12px/25px;
+    font-family: Helvetica;
+    text-decoration: none;
+    text-align: center;
+    font-size:22px;
+    line-height: 40px;
+    width: 100px;
+    height: 40px;
+    margin: 20px;
+    border-radius: 25px;
+    -webkit-transition: all 0.15s ease;
+    -moz-transition: all 0.15s ease;
+    -o-transition: all 0.15s ease;
+    -ms-transition: all 0.15s ease;
+    transition: all 0.15s ease;
+    color: teal;
+}
+
 #container{
     margin: auto;
     width: 1000px;
