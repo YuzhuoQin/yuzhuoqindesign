@@ -17,6 +17,7 @@ nav ul li{
     display: inline-block;
     list-style-type: none;
     padding: 5px 15px;
+    letter-spacing: 0.2rem;
     
 }
 nav ul li a{
@@ -37,7 +38,7 @@ nav{
 }
 
 .logo{
-    font-family:Helvetica;
+    font-family: Barlow;
     width: 300px;
     height: 80px;
     line-height: 5px;
@@ -49,12 +50,12 @@ nav{
 }
 .big-logo{
     margin: 25px;
-    font-size: 30px;
-    letter-spacing: 1px;
+    font-size: 32px;
+    letter-spacing: 0.3rem;
     display: inline;
 }
 .small-logo{
-    font-size: 15px;
+    font-size: 16px;
     letter-spacing: 3px;
     display: inline;
 }
