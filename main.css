@@ -73,9 +73,11 @@ body{
 
 footer table a {
     color: teal;
+    background color: teal;
 }
 
 .foot{
+    
     margin: 50px auto;
 }
 main td img{
